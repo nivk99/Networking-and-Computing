@@ -1,0 +1,46 @@
+Socket successfully created..
+Socket successfully binded..
+Server listening..
+server accept the client...
+Current CC: cubic
+Read file  #0
+clock=1505
+time is 0.001654 1505 3159 CLOCKS_PER_SEC=1000000
+Time measured: 0.436 seconds.
+Read file  #1
+clock=3201
+time is 0.001388 3201 4589 CLOCKS_PER_SEC=1000000
+Time measured: 0.031 seconds.
+Read file  #2
+clock=4606
+time is 0.001175 4606 5781 CLOCKS_PER_SEC=1000000
+Time measured: 0.018 seconds.
+Read file  #3
+clock=5798
+time is 0.000696 5798 6494 CLOCKS_PER_SEC=1000000
+Time measured: 1.516 seconds.
+Read file  #4
+clock=6515
+time is 0.000421 6515 6936 CLOCKS_PER_SEC=1000000
+Time measured: 0.000 seconds.
+New: reno
+Read file  #0
+clock=7044
+time is 0.000854 7044 7898 CLOCKS_PER_SEC=1000000
+Time measured: 1.053 seconds.
+Read file  #1
+clock=7919
+time is 0.000396 7919 8315 CLOCKS_PER_SEC=1000000
+Time measured: 0.043 seconds.
+Read file  #2
+clock=8336
+time is 0.001020 8336 9356 CLOCKS_PER_SEC=1000000
+Time measured: 0.542 seconds.
+Read file  #3
+clock=9374
+time is 0.000542 9374 9916 CLOCKS_PER_SEC=1000000
+Time measured: 0.001 seconds.
+Read file  #4
+clock=9928
+time is 0.000355 9928 10283 CLOCKS_PER_SEC=1000000
+Time measured: 0.000 seconds.
