@@ -1,1 +1,1 @@
-# Networking-and-Computing
+# Networking and Computing course 
